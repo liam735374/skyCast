@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast Weather",
+  "description": "Accurate real-time weather forecasts, hourly and daily outlooks, air conditions, precipitation details, and saved favorite cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
